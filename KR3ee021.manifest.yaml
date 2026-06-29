@@ -1,0 +1,1443 @@
+canonical_identifier: bkk:krp/KR3ee021/v1
+canonical_location: https://kanripo.org/bkk/KR3ee021/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 針灸素難要旨
+  identifiers:
+    krp: KR3ee021
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee021.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ee021_001.yaml, hash: 'sha256:22961f29d4598d78f97aa82f0da5da8ea9f8b3cbbc629eaee268cc77aa109296'}
+  - {seq: 2, filename: KR3ee021_002.yaml, hash: 'sha256:81443c5f09f5c996ae5dd0721d05eac1ca8589b2df46f13e4490fd88c31c5ce0'}
+  - {seq: 3, filename: KR3ee021_003.yaml, hash: 'sha256:72f7291e960b4fc0e9b9bb5d332631350e72ddeb50004d9d96ad2f8030f45933'}
+  - {seq: 4, filename: KR3ee021_004.yaml, hash: 'sha256:1fe0b2b4ebe6848250bc84ca0ee5b8b55011d00a9f86a816031157542d0f6e11'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ee021_001.markers.yaml, hash: 'sha256:e59d812a0b63fcadb237b53664265ec0cec6616fe348f4c6af8df1cc1ab0d8d7'}
+  - {seq: 2, role: markers, filename: assets/KR3ee021_002.markers.yaml, hash: 'sha256:2226901b8669e7d1b3c3a2879096422c44dc66462e7e3830006c7d33933e3f0f'}
+  - {seq: 3, role: markers, filename: assets/KR3ee021_003.markers.yaml, hash: 'sha256:aa3278e89050f8cde4567d4e8df5a3d3e933961b5ec1aced804f40cd8038e178'}
+  - {seq: 4, role: markers, filename: assets/KR3ee021_004.markers.yaml, hash: 'sha256:43f66cbd6f0953f1bb3af7b7ff60822a2c68f1e6b3a8ee7fc134b39417dcb72d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ee021_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 254
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee021_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 224
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee021_jc_000-d4.h1s1
+    span:
+    - body
+    - 224
+    - 399
+  label: 九針式
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 11262
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 11262
+  label: 難經
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d2
+    span:
+    - body
+    - 4
+    - 4186
+  label: 一補瀉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d3
+    span:
+    - body
+    - 4186
+    - 4706
+  label: 二補瀉相反
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d4
+    span:
+    - body
+    - 4706
+    - 5002
+  label: 三針刺淺深
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d5
+    span:
+    - body
+    - 5002
+    - 5234
+  label: 四先後淺深
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d6
+    span:
+    - body
+    - 5234
+    - 5700
+  label: 五井滎俞經合主病
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d7
+    span:
+    - body
+    - 5700
+    - 5946
+  label: 六四時井滎俞經合刺
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d8
+    span:
+    - body
+    - 5946
+    - 6195
+  label: 七臟腑滎俞合皆以井為始
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d9
+    span:
+    - body
+    - 6195
+    - 6319
+  label: 八臟腑井滎為五六
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d10
+    span:
+    - body
+    - 6319
+    - 6705
+  label: 九陰陽井滎木金相生不同
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d11
+    span:
+    - body
+    - 6705
+    - 6787
+  label: 十出井入合
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d12
+    span:
+    - body
+    - 6787
+    - 7003
+  label: 十一欲刺井當刺滎
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d13
+    span:
+    - body
+    - 7003
+    - 7632
+  label: 十二經脈流注
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d14
+    span:
+    - body
+    - 7632
+    - 8728
+  label: 十三奇經八脈
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d15
+    span:
+    - body
+    - 8728
+    - 8970
+  label: 十四十五絡脈
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d16
+    span:
+    - body
+    - 8970
+    - 9289
+  label: 十五奇經病
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d17
+    span:
+    - body
+    - 9289
+    - 10582
+  label: 十六十二經以原為俞三焦以俞為原
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d18
+    span:
+    - body
+    - 10582
+    - 11044
+  label: 十七八會刺穴
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee021_jc_001-d5.d2d19
+    span:
+    - body
+    - 11044
+    - 11262
+  label: 十八上工下工治病
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.h1s1
+    span:
+    - body
+    - 0
+    - 14543
+  label: 卷二上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6d2
+    span:
+    - body
+    - 3
+    - 14543
+  label: 靈素
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d2
+    span:
+    - body
+    - 5
+    - 176
+  label: 一用針方宜
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d3
+    span:
+    - body
+    - 176
+    - 406
+  label: 二九針式
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d4
+    span:
+    - body
+    - 406
+    - 1059
+  label: 三九針應天地人時以起用
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d5
+    span:
+    - body
+    - 1059
+    - 1337
+  label: 四九針所宜
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d6
+    span:
+    - body
+    - 1337
+    - 1500
+  label: 五五刺應五臟
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d7
+    span:
+    - body
+    - 1500
+    - 1645
+  label: 六九刺應九變
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d8
+    span:
+    - body
+    - 1645
+    - 1983
+  label: 七十二刺應十二經
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d9
+    span:
+    - body
+    - 1983
+    - 2131
+  label: 八黑白肥瘦刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d10
+    span:
+    - body
+    - 2131
+    - 2168
+  label: 九刺常人
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d11
+    span:
+    - body
+    - 2168
+    - 2307
+  label: 十刺王公大人布衣
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d12
+    span:
+    - body
+    - 2307
+    - 2369
+  label: 十一刺壯士
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d13
+    span:
+    - body
+    - 2369
+    - 2407
+  label: 十二刺嬰兒
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d14
+    span:
+    - body
+    - 2407
+    - 2509
+  label: 十三刺脈虛實淺深
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d15
+    span:
+    - body
+    - 2509
+    - 2647
+  label: 十四十二經氣血刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d16
+    span:
+    - body
+    - 2647
+    - 2781
+  label: 十五手足陰陽經脈刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d17
+    span:
+    - body
+    - 2781
+    - 6629
+  label: 十六補瀉
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d18
+    span:
+    - body
+    - 6629
+    - 6656
+  label: 十七刺胸腹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d19
+    span:
+    - body
+    - 6656
+    - 6847
+  label: 十八標本
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d20
+    span:
+    - body
+    - 6847
+    - 7020
+  label: 十九針灸手
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d21
+    span:
+    - body
+    - 7020
+    - 7967
+  label: 二十刺宜從時
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d22
+    span:
+    - body
+    - 7967
+    - 8023
+  label: 二十一五奪不可瀉
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d23
+    span:
+    - body
+    - 8023
+    - 8399
+  label: 二十二刺逆四時
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d24
+    span:
+    - body
+    - 8399
+    - 8984
+  label: 二十三刺避
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d25
+    span:
+    - body
+    - 8984
+    - 9477
+  label: 二十四禁太過不及
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d26
+    span:
+    - body
+    - 9477
+    - 9911
+  label: 二十五五節刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d27
+    span:
+    - body
+    - 9911
+    - 10487
+  label: 二十六五臟病刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d28
+    span:
+    - body
+    - 10487
+    - 10804
+  label: 二十七刺弊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d29
+    span:
+    - body
+    - 10804
+    - 11106
+  label: 二十八血氣不同形
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d30
+    span:
+    - body
+    - 11106
+    - 12432
+  label: 二十九十二絡繆刺繆如紕繆紀綱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d31
+    span:
+    - body
+    - 12432
+    - 12548
+  label: 三十經刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d32
+    span:
+    - body
+    - 12548
+    - 12619
+  label: 三十一巨刺繆刺刺絡脈巨刺刺經脈
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d33
+    span:
+    - body
+    - 12619
+    - 13080
+  label: 三十二脈刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d34
+    span:
+    - body
+    - 13080
+    - 13627
+  label: 三十三淺深上下所宜
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d35
+    span:
+    - body
+    - 13627
+    - 14075
+  label: 三十四人身左右上下虛實不同刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d36
+    span:
+    - body
+    - 14075
+    - 14280
+  label: 三十五氣血清濁淺深刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d6.d2d37
+    span:
+    - body
+    - 14280
+    - 14543
+  label: 三十六死期不可刺
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.h1s1
+    span:
+    - body
+    - 14543
+    - 27418
+  label: 卷二下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d2
+    span:
+    - body
+    - 14546
+    - 14788
+  label: 一五亂刺
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d3
+    span:
+    - body
+    - 14788
+    - 15514
+  label: 二氣血盛哀
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d4
+    span:
+    - body
+    - 15514
+    - 15566
+  label: 三耐痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d5
+    span:
+    - body
+    - 15566
+    - 15652
+  label: 四五逆
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d6
+    span:
+    - body
+    - 15652
+    - 15701
+  label: 五三刺穀氣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d7
+    span:
+    - body
+    - 15701
+    - 16581
+  label: 六熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d8
+    span:
+    - body
+    - 16581
+    - 17337
+  label: 七瘧
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d9
+    span:
+    - body
+    - 17337
+    - 18116
+  label: 八腰痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d10
+    span:
+    - body
+    - 18116
+    - 18530
+  label: 九周痹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d11
+    span:
+    - body
+    - 18530
+    - 19141
+  label: 十癲狂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d12
+    span:
+    - body
+    - 19141
+    - 19368
+  label: 十一頭
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d13
+    span:
+    - body
+    - 19368
+    - 19944
+  label: 十二痿
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d14
+    span:
+    - body
+    - 19944
+    - 20248
+  label: 十三心痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d15
+    span:
+    - body
+    - 20248
+    - 21040
+  label: 十四脹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d16
+    span:
+    - body
+    - 21040
+    - 21087
+  label: 十五胸脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d17
+    span:
+    - body
+    - 21087
+    - 21209
+  label: 十六大風
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d18
+    span:
+    - body
+    - 21209
+    - 21273
+  label: 十七癘風
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d19
+    span:
+    - body
+    - 21273
+    - 21365
+  label: 十八偏枯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d20
+    span:
+    - body
+    - 21365
+    - 21417
+  label: 十九痿厥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d21
+    span:
+    - body
+    - 21417
+    - 21901
+  label: 二十癰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d22
+    span:
+    - body
+    - 21901
+    - 22001
+  label: 二十一鼠瘻
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d23
+    span:
+    - body
+    - 22001
+    - 22162
+  label: 二十二耳鳴耳痛耳聾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d24
+    span:
+    - body
+    - 22162
+    - 22322
+  label: 二十三膝痛脛酸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d25
+    span:
+    - body
+    - 22322
+    - 22370
+  label: 二十四齧舌齧頰齧唇重舌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d26
+    span:
+    - body
+    - 22370
+    - 22431
+  label: 二十五欠
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d27
+    span:
+    - body
+    - 22431
+    - 22484
+  label: 二十六噦
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d28
+    span:
+    - body
+    - 22484
+    - 22545
+  label: 二十七唏噫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d29
+    span:
+    - body
+    - 22545
+    - 22571
+  label: 二十八振寒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d30
+    span:
+    - body
+    - 22571
+    - 22617
+  label: 二十九嚲丁可反
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d31
+    span:
+    - body
+    - 22617
+    - 22640
+  label: 三十嚏
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d32
+    span:
+    - body
+    - 22640
+    - 22678
+  label: 三十一泣竭成盲
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d33
+    span:
+    - body
+    - 22678
+    - 22717
+  label: 三十二太息
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d34
+    span:
+    - body
+    - 22717
+    - 22788
+  label: 三十三涎下
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d35
+    span:
+    - body
+    - 22788
+    - 22822
+  label: 三十四口目喎噼
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d36
+    span:
+    - body
+    - 22822
+    - 22858
+  label: 三十五腸鳴
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d37
+    span:
+    - body
+    - 22858
+    - 22891
+  label: 三十六目眩頭傾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d38
+    span:
+    - body
+    - 22891
+    - 22974
+  label: 三十七喉痹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d39
+    span:
+    - body
+    - 22974
+    - 23013
+  label: 三十八齒痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d40
+    span:
+    - body
+    - 23013
+    - 23047
+  label: 三十九衄
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d41
+    span:
+    - body
+    - 23047
+    - 23094
+  label: 四十喘
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d42
+    span:
+    - body
+    - 23094
+    - 23119
+  label: 四十一怒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d43
+    span:
+    - body
+    - 23119
+    - 23153
+  label: 四十二頗若感切
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d44
+    span:
+    - body
+    - 23153
+    - 23176
+  label: 四十三項痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d45
+    span:
+    - body
+    - 23176
+    - 23226
+  label: 四十四足
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d46
+    span:
+    - body
+    - 23226
+    - 23238
+  label: 四十五下血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d47
+    span:
+    - body
+    - 23238
+    - 23295
+  label: 四十六疝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d48
+    span:
+    - body
+    - 23295
+    - 23329
+  label: 四十七轉筋
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d49
+    span:
+    - body
+    - 23329
+    - 23552
+  label: 四十八厥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d50
+    span:
+    - body
+    - 23552
+    - 23592
+  label: 四十九癇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d51
+    span:
+    - body
+    - 23592
+    - 23608
+  label: 五十霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d52
+    span:
+    - body
+    - 23608
+    - 23625
+  label: 五十一目痛
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d53
+    span:
+    - body
+    - 23625
+    - 23865
+  label: 五十二卒然無音
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d54
+    span:
+    - body
+    - 23865
+    - 24090
+  label: 五十三目不瞑不臥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d55
+    span:
+    - body
+    - 24090
+    - 24667
+  label: 五十四補遺篇氣交暴郁刺法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d56
+    span:
+    - body
+    - 24667
+    - 24908
+  label: 五十五司天不遷正刺法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d57
+    span:
+    - body
+    - 24908
+    - 25304
+  label: 五十六司氣有餘不退位刺法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d58
+    span:
+    - body
+    - 25304
+    - 26209
+  label: 五十七司氣失守刺
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d59
+    span:
+    - body
+    - 26209
+    - 26498
+  label: 五十八全真刺
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d60
+    span:
+    - body
+    - 26498
+    - 26809
+  label: 五十九十二臟邪干刺
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7d61
+    span:
+    - body
+    - 26809
+    - 27418
+  label: 灸法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d2
+    span:
+    - body
+    - 26811
+    - 26864
+  label: 六十艾灸方宜
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d3
+    span:
+    - body
+    - 26864
+    - 26961
+  label: 六十一艾灸補瀉
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d4
+    span:
+    - body
+    - 26961
+    - 27096
+  label: 六十二灸寒熱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d5
+    span:
+    - body
+    - 27096
+    - 27120
+  label: 六十三女子敗疵
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d6
+    span:
+    - body
+    - 27120
+    - 27135
+  label: 六十四灸癰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d7
+    span:
+    - body
+    - 27135
+    - 27164
+  label: 六十五犬咬
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d8
+    span:
+    - body
+    - 27164
+    - 27188
+  label: 六十六傷寒苦樂
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee021_jc_NaN-d7.d61d9
+    span:
+    - body
+    - 27188
+    - 27418
+  label: 六十七宜灸不宜刺
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 8668
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d2
+    span:
+    - body
+    - 2
+    - 1145
+  label: 一十二經病刺
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d3
+    span:
+    - body
+    - 1145
+    - 1300
+  label: 二奇經八脈病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d4
+    span:
+    - body
+    - 1300
+    - 2647
+  label: 三十二經脈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d5
+    span:
+    - body
+    - 2647
+    - 3336
+  label: 四奇經八脈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d6
+    span:
+    - body
+    - 3336
+    - 4067
+  label: 五十五絡脈
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d7
+    span:
+    - body
+    - 4067
+    - 5799
+  label: 六十二經筋
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d8
+    span:
+    - body
+    - 5799
+    - 6767
+  label: 七空穴
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d9
+    span:
+    - body
+    - 6767
+    - 8079
+  label: 八十二經井滎俞原經合
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d10
+    span:
+    - body
+    - 8079
+    - 8516
+  label: 九同身尺寸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee021_jc_003-d8d11
+    span:
+    - body
+    - 8516
+    - 8668
+  label: 十經脈長短
+  type: section
+  level: 2
+hash: sha256:38a51558365368124173634e50738ddc119513f1920460effe846f9919965ab8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
