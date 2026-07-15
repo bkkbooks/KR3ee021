@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee021/v1
 canonical_location: https://kanripo.org/bkk/KR3ee021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 針灸素難要旨
   identifiers:
@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ee021_001.yaml, hash: 'sha256:6bf61e262af5493da57e1d8f31e47ff1e8f73e4c3b5cd7d1a3c7eee3670300ba'}
-  - {seq: 2, filename: KR3ee021_002.yaml, hash: 'sha256:29077079ee56d30ffab17bee0dea68ce0b020303cd86c4ae56e25c04ee7f7500'}
-  - {seq: 3, filename: KR3ee021_003.yaml, hash: 'sha256:1339f708f0d31af7819fb9b6cb959e6655e49f2c63072787b19299af2bbf38d6'}
-  - {seq: 4, filename: KR3ee021_004.yaml, hash: 'sha256:60b450402fcd6ed42d843d592165e5ad07799aeefbc1360118c9da848d27e4e6'}
+  - {seq: 1, filename: KR3ee021_001.yaml, hash: 'sha256:887aaa5d7e031a0f8a88284df5b72e4a0c5534b8bd613c5f03b6202f97da133f'}
+  - {seq: 2, filename: KR3ee021_002.yaml, hash: 'sha256:e843b925fde4bb30550122a2ac1afbc132f6e0a7640b92779481584ce03f2379'}
+  - {seq: 3, filename: KR3ee021_003.yaml, hash: 'sha256:d6c7fa0346db43dd357c3c083f8cba1eb2df6085d1b6c82b668d8b51027b525e'}
+  - {seq: 4, filename: KR3ee021_004.yaml, hash: 'sha256:1bbd65e0c5f3104d9eb6812be7083af5817392f5dea3a873827342c713e780ba'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ee021_001.markers.yaml, hash: 'sha256:624fc4d7180d3631c2e75ed2e2803449c97e8514a0508bfd556cbf69dd847abb'}
-  - {seq: 2, role: markers, filename: assets/KR3ee021_002.markers.yaml, hash: 'sha256:23a6b55186dd0d94eede6dec141f64f0c17b208a0a7ea95d0b4aca206696cfe8'}
-  - {seq: 3, role: markers, filename: assets/KR3ee021_003.markers.yaml, hash: 'sha256:efdb2e1059ab5b15eed6f0adb47eab983b31cf240205bf462e1877650d42d879'}
-  - {seq: 4, role: markers, filename: assets/KR3ee021_004.markers.yaml, hash: 'sha256:cd487e3aa3185f55afb567f7bb62701c4b1ce8c383238a6ea9d2ad2222918938'}
+  - {seq: 1, role: markers, filename: assets/KR3ee021_001.markers.yaml, hash: 'sha256:a2bb971e6e3f7878734390dcc42236c0d9fab7e0b37252e63501d37f07746ef3'}
+  - {seq: 2, role: markers, filename: assets/KR3ee021_002.markers.yaml, hash: 'sha256:e10b7e508c34a478db53ab2f93ffc4395f5e51c5e78267d31d2f9762fd8aff22'}
+  - {seq: 3, role: markers, filename: assets/KR3ee021_003.markers.yaml, hash: 'sha256:bb2b80f346c1a89704efeab876500a87a2ef9e27e3a898bddfef26403686b523'}
+  - {seq: 4, role: markers, filename: assets/KR3ee021_004.markers.yaml, hash: 'sha256:8c2199bde5fa12dc5d0be78fc259d0dca2ab9cb1582c2a103b57f78a6cf7f577'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1437,4 +1437,7 @@ table_of_contents:
   label: 十經脈長短
   type: section
   level: 2
-hash: sha256:b2cf11661b4533d6dfa81335bb6fe36a02ff5939b5e4fe7a94b6c983c06e9907
+hash: sha256:47bed2d36e4a444bf055526b78e91acbdc9d26d6da289b25a5419dcead75ca1c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
