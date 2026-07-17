@@ -24,7 +24,7 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ee021_001.markers.yaml, hash: 'sha256:a2bb971e6e3f7878734390dcc42236c0d9fab7e0b37252e63501d37f07746ef3'}
   - {seq: 2, role: markers, filename: assets/KR3ee021_002.markers.yaml, hash: 'sha256:e10b7e508c34a478db53ab2f93ffc4395f5e51c5e78267d31d2f9762fd8aff22'}
-  - {seq: 3, role: markers, filename: assets/KR3ee021_003.markers.yaml, hash: 'sha256:bb2b80f346c1a89704efeab876500a87a2ef9e27e3a898bddfef26403686b523'}
+  - {seq: 3, role: markers, filename: assets/KR3ee021_003.markers.yaml, hash: 'sha256:eeb6bda9c52b00af28df4173c8696412f2a5cb5f7328d6eb465f435aea9daeb3'}
   - {seq: 4, role: markers, filename: assets/KR3ee021_004.markers.yaml, hash: 'sha256:8c2199bde5fa12dc5d0be78fc259d0dca2ab9cb1582c2a103b57f78a6cf7f577'}
 table_of_contents:
 - ref:
@@ -1437,7 +1437,7 @@ table_of_contents:
   label: 十經脈長短
   type: section
   level: 2
-hash: sha256:47bed2d36e4a444bf055526b78e91acbdc9d26d6da289b25a5419dcead75ca1c
+hash: sha256:55051545bd639d88870c9c79a7831874a46b64b3cf21638f2825fb0f7607d1e3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
